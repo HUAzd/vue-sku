@@ -6,6 +6,8 @@
 
 请参考这位大佬 https://juejin.im/post/5eef2fcee51d4574113a0203
 
+增加模拟接口请求，刷新数据，购买按钮
+
 ## Usage
 
 ```
