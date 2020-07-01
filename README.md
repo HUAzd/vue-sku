@@ -1,24 +1,14 @@
 # sku-vue
 
-## Project setup
-```
-npm install
-```
+## What
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+通过vue使用图解法完成sku
 
-### Compiles and minifies for production
-```
-npm run build
-```
+请参考这位大佬 https://juejin.im/post/5eef2fcee51d4574113a0203
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Usage
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+npm i
+npm run dev
+```
